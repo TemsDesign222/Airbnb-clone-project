@@ -11,7 +11,7 @@ As an ambitious woman in tech from Lagos,Nigeria, I am committed to building rea
 - Build a strong portfolio project to showcase to future employers.
 
 ## Tech Stack
-- **Frontend**: HTML5, CSS3, JavaScript
+- **Frontend**: HTML,CSS,JavaScript
 - **Backend**: Python (Flask)
 
 ## Getting Started
