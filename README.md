@@ -13,10 +13,6 @@ As an ambitious woman in tech from Lagos,Nigeria, I am committed to building rea
 ## Tech Stack
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Backend**: Python (Flask)
-- **Database**: SQLite (development) / MySQL (production-ready)
-- **Version Control**: Git & GitHub
-- **Tools**: Visual Studio Code, Postman
-- **Deployment**: Coming soon (Render/Heroku)
 
 ## Getting Started
 git clone https://github.com/TemsDesign222/airbnb-clone-project.git
