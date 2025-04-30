@@ -1,4 +1,6 @@
 ##SECTION 1:
+
+
 This is a personal version of the AirBnB Clone project, built as part of my journey through the ALX Software Engineering program. The aim is to understand how large-scale applications like AirBnB are structured and how the front-end and back-end interact to deliver real-time,dynamic user experiences.
 
 As an ambitious woman in tech from Lagos,Nigeria,I am committed to building real-world applications that reflect both creativity and technical depth.This project is a stepping stone in that direction.
@@ -57,6 +59,7 @@ Creating a user-friendly interface is essential—especially for a booking syste
 
 ## SECTION 3:
 
+
 # UI/UX Design Planning
 # Figma Design Properties
 As part of my growth in front-end engineering,I explored the Figma design environment to understand the visual language of the booking system.This helped me align development with design intent, ensuring that what users see and interact with matches the original vision. Below is a breakdown of the key design elements I extracted from the Figma file:
@@ -92,6 +95,8 @@ Recognizing and applying the correct design properties from a Figma mockup is a 
 This process has deepened my understanding of how thoughtful design translates into meaningful,user friendly interfaces exactly what I aim to deliver as a growing front-end developer.
 
 ## SECTION 4:
+
+
 Project Roles and Responsibilities
 In this project,every role is purposefully defined to foster clarity,accountability,and successful collaboration.Below is an overview of how each team member contributes to building a solution that’s not only functional but impactful.
 
@@ -152,7 +157,8 @@ Guiding the agile journey:
 . Helps the team stay focused,productive,and aligned with sprint goals.
 . Protects team dynamics and encourages open communication.
 
-## SECTION 5
+## SECTION 5:
+
 
 1. UI Component Patterns
 As a frontend developer passionate about building clean and intuitive interfaces, I’m structuring the UI of this AirBnB Clone with reusable component patterns that ensure consistency,responsiveness, and a great user experience.Below are the core components I plan to create as the visual foundation of this project:
