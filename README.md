@@ -1,6 +1,4 @@
 ##SECTION 1:
-
-# Airbnb-clone-project
 This is a personal version of the AirBnB Clone project, built as part of my journey through the ALX Software Engineering program. The aim is to understand how large-scale applications like AirBnB are structured and how the front-end and back-end interact to deliver real-time,dynamic user experiences.
 
 As an ambitious woman in tech from Lagos,Nigeria,I am committed to building real-world applications that reflect both creativity and technical depth.This project is a stepping stone in that direction.
